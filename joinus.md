@@ -1,5 +1,5 @@
 ---
-description: 编辑者：MiMi
+description: '本页贡献名单: MiMi'
 ---
 
 # 成为白皮书贡献者
