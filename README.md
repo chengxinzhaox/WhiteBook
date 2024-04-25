@@ -46,7 +46,7 @@
 
 ## 加入我们
 
-如果你有任何海外院校的DIY经历，或对某一院校的申请流程非常熟悉并且发现白皮书中没有该院校的教程，欢迎向白皮书投稿。了解详情欢迎咨询我们的邮箱：apply@whitebook.icu
+如果你有任何海外院校的DIY经历，或对某一院校的申请流程非常熟悉并且发现白皮书中没有该院校的教程，欢迎向白皮书投稿。了解详情欢迎咨询我们的邮箱：[apply@whitebook.icu](mailto:apply@whitebook.icu)
 
 更多信息请访问： [cheng-wei-bai-pi-shu-gong-xian-zhe.md](cheng-wei-bai-pi-shu-gong-xian-zhe.md "mention")
 
@@ -57,4 +57,4 @@
 反馈途径如下
 
 1. 通过白皮书 GitHub 仓库发布 [Issue](https://github.com/ChesterZhao/WhiteBook/issues)
-2. 或将问题提交到我们的邮箱：issue@whitebook.icu
+2. 或将问题提交到我们的邮箱：[issue@whitebook.icu](mailto:issue@whitebook.icu)
