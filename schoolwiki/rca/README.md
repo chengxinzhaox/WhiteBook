@@ -1,6 +1,6 @@
 ---
 description: 本页贡献名单：MiMi
-cover: ../../.gitbook/assets/SchoolWatch11_4.jpg
+cover: https://images.e-flux-systems.com/SchoolWatch11_4.jpg,1600
 coverY: 0
 ---
 

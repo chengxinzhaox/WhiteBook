@@ -4,7 +4,7 @@
 
 ## 关于我们
 
-小白书是一款完全开源免费的海外院校DIY申请指南，由 Markdown 格式编写，由 GitBook 进行网页端渲染，本项目的所有源码均在 GitHub 中公开。
+小白书是一款完全开源免费的海外院校DIY申请指南，本站的全部文字在 [CC BY-NC-ND 4.0 DEED（知识共享 署名 标识-非商业性质-禁止改作 4.0国际）](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant)之条款下提供，附加条款亦可能应用。我们提供的所有信息均不以盈利为目的。 跟多信息请参阅： [ban-quan-shou-ze.md](ban-quan-shou-ze.md "mention")
 
 {% embed url="https://github.com/ChesterZhao/WhiteBook" %}
 访问我们的源代码
@@ -39,6 +39,8 @@
 * 小白书中的所有教程版权均为其创作者所有。
 * 小白书中所有教程均为无偿提供，我们非常欢迎你把我们的网站分享给你的朋友。
 * <mark style="background-color:red;">任何盈利型组织均禁止转载小白书中的任何内容（包括但不限于用于公众号，小红书引流，盈利），一经发现我们将在小白书首页公开你的账号信息，昭告天下，并且永不删除。</mark>
+
+更多内容请访问:  [ban-quan-shou-ze.md](ban-quan-shou-ze.md "mention")
 
 ***
 
