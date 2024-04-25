@@ -57,4 +57,4 @@
 反馈途径如下
 
 1. 通过白皮书 GitHub 仓库发布 [Issue](https://github.com/ChesterZhao/WhiteBook/issues)
-2. 或将问题提交到我们的邮箱：[issue@whitebook.icu](mailto:issue@whitebook.icu)
+2. 或将问题提交到我们的邮箱：[apply@whitebook.icu](mailto:apply@whitebook.icu)
