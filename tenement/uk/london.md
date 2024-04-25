@@ -6,19 +6,15 @@ coverY: 0
 
 # 伦敦
 
-小白根据思路解决以下几个问题，基本可以解决伦敦租房问题，有一些了解的家人可以直接查看未知问题的解决方案。
-
-## 问题一：住在哪里
-
-### 确定学校邮编
+## 确定学校邮编
 
 基本官网或者地图都可以找到学校的邮编，以皇家艺术学院巴特西校区为例，邮编是 **SW11 4NL** 。
 
 咱们最开始只需要关注前半部分 **SW11** 就够， 因为同一个区的通勤时间差不太多。
 
-<figure><img src="https://zi4e6xgzomj.feishu.cn/space/api/box/stream/download/asynccode/?code=NzI3ODdkMGM5YTM3ZmVlZjk5ZTI3ZDMyM2M1YWRiZGNfQmdIeVBaWHplWmRRN3llNzFCOHZ5UHpXQXBFTVd6bVRfVG9rZW46V0t1dWJvZVBDb09vRHF4OHkyWWM5RFdyblBjXzE3MTQwNDM2NTU6MTcxNDA0NzI1NV9WNA" alt=""><figcaption><p>谷歌地图查找的校区信息</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2024-04-25 at 20.56.17.jpg" alt=""><figcaption><p>谷歌地图上的学校邮编</p></figcaption></figure>
 
-### 看懂邮编
+## 看懂邮编
 
 **S——south；N——north；E——east；W——west**&#x20;
 
@@ -40,7 +36,7 @@ coverY: 0
 一般河北岸的治安整体好于南岸，所以住 S 区的话要注意安全性哦
 {% endhint %}
 
-### 怎么看通勤
+## 怎么看通勤
 
 通过邮编初步筛选掉一些信息后，就可以通过具体邮编确定通勤时间。
 
@@ -50,11 +46,7 @@ coverY: 0
 白皮书与这两款软件并无利益关系，您也可以通过 Google Map，Apple Map 等地图软件查询通勤信息。
 {% endhint %}
 
-<figure><img src="https://zi4e6xgzomj.feishu.cn/space/api/box/stream/download/asynccode/?code=YzI3NjI5MmYwNzVkOWNjMDFlMjRlYjRkMDRmYzE1ZjFfdU1vT21lOUZkbGZNQzhtSTFHeWZyb0xtUTNBN3BabG5fVG9rZW46QVl0MWI0SDFLb0dHSHV4dUdwamMydWNLbmdlXzE3MTQwNDU1NzY6MTcxNDA0OTE3Nl9WNA" alt="" width="375"><figcaption><p>应用市场直接下载</p></figcaption></figure>
-
 查看通勤可以用 Citymapper，这里需要目标房源的具体邮编，只需要输入邮编和学校名称，就会有具体的通勤信息。
-
-<figure><img src="https://zi4e6xgzomj.feishu.cn/space/api/box/stream/download/asynccode/?code=YjU5M2VlZDBjYmJmMzA5ZGE2Zjg4MmU0ZTQxYTAwZThfRnNJSll4c0NXNHNQOVNuOG9EY2hIZkc2M0lIeWJ5WjFfVG9rZW46QVJWMGJydzUwb0tXZmp4NWRyN2NzUW1PbkhoXzE3MTQwNDU3Mjc6MTcxNDA0OTMyN19WNA" alt="" width="375"><figcaption><p>Citymapper 界面</p></figcaption></figure>
 
 > 以 SW3 1AB 到皇艺为例
 >
@@ -66,21 +58,24 @@ coverY: 0
 假设一周五天课，一周公交通勤成本需要至少17.5镑
 {% endhint %}
 
-## 问题二：住什么样子的房
+## 住什么样子的房
 
-### 基础房型介绍
+### Studio
 
-Studio：类似于国内的小开间，你拥有完全独立的卧室、厨房、卫生间。
+类似于国内的小开间，你拥有完全独立的卧室、厨房、卫生间。
 
 （插studio的户型图）
 
-优点：不用担心遇到奇葩室友，可以勇敢做自己，完全掌控空间支配权。
+|    |                                                             |
+| -- | ----------------------------------------------------------- |
+| 优点 | 不用担心遇到奇葩室友，可以勇敢做自己，完全掌控空间支配权。                               |
+| 缺点 | 厨房和卧室一般没有隔断，香香软软小被子容易被油烟腌入味儿。如果 Studio 的质量不好，厕所也会加入被子的腌制工作。 |
 
-缺点：厨房和卧室一般没有隔断，香香软软小被子容易被油烟腌入味儿。如果studio的质量不好，厕所也会加入被子的腌制工作。
+### En-suit
 
+只有独立卫浴的
 
-
-## 问题三 ：在哪找房
+## 在哪找房
 
 如果确定要租社会房源，那么就尽早下签证，线上平台和英国中介都会要资格认证，才能签订合同。
 
@@ -92,6 +87,6 @@ Studio：类似于国内的小开间，你拥有完全独立的卧室、厨房�
 
 ### 线上找房平台
 
-常用几个网站有：[Zoopla](https://www.zoopla.co.uk/to-rent/) [Rightmove](https://www.rightmove.co.uk/) [Spareroom](https://www.spareroom.co.uk/) [Openrent](https://www.openrent.co.uk/)
+常用几个网站有：[Zoopla](https://www.zoopla.co.uk/to-rent/), [Rightmove](https://www.rightmove.co.uk/), [Spareroom](https://www.spareroom.co.uk/), [Openrent](https://www.openrent.co.uk/)
 
 使用都大同小异，只重点说一些筛选操作和Fliter的设置。

@@ -12,6 +12,8 @@
       * [入学](school-wiki/rca/offer-hoder/enrollment.md)
 * [海外租房](tenement/README.md)
   * [英国](tenement/uk/README.md)
+    * [房型](tenement/uk/fang-xing.md)
+    * [找房](tenement/uk/zhao-fang.md)
     * [伦敦](tenement/uk/london.md)
 * [成为白皮书贡献者](joinus.md)
 * [编辑者手册](editor/README.md)
