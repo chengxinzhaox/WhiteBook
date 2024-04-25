@@ -4,7 +4,9 @@
 
 ## 关于我们
 
-白皮书是一款完全开源免费的海外院校 DIY 申请指南，本站的全部文字在 [CC BY-NC-ND 4.0 DEED（知识共享 署名 标识-非商业性质-禁止改作 4.0国际）](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant)之条款下提供，附加条款亦可能应用。我们提供的所有信息均不以盈利为目的。 更多信息请参考： [copyright.md](copyright.md "mention")
+白皮书是一款完全开源免费的海外院校 DIY 申请指南，本站的所有信息均在 [CC BY-NC-ND 4.0 DEED（知识共享 署名 标识-非商业性质-禁止改作 4.0 国际版）](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant)条款下提供。
+
+白皮书没有接受如何机构/个人的捐款或任何形式的资金支持。更多信息请参考： [copyright.md](copyright.md "mention")
 
 {% embed url="https://github.com/ChesterZhao/WhiteBook" %}
 访问代码
@@ -17,7 +19,7 @@
 目前在白皮书中你可以找到**海外院校的 DIY 指南**，**海外 DIY 租房指南**
 
 {% hint style="info" %}
-由于白皮书是一个非盈利型项目，我们只能为你提供 DIY 指南，无法为你推荐任何中介服务，如需咨询，请转移平台。
+由于白皮书是一个非盈利型项目，我们只能为你提供 DIY 指南，很抱歉无法为你推荐任何中介服务。
 {% endhint %}
 
 更多信息，请访问 [about.md](about.md "mention")
@@ -38,9 +40,10 @@
 
 ## 内容
 
-* 白皮书中的所有教程版权均为其创作者所有。
-* 白皮书中所有教程均为无偿提供，我们非常欢迎你把我们的网站分享给你的朋友。
+* 白皮书中的所有内容版权均为其创作者所有，页面的版权所有者已被署名至`页面详情`。
+* 白皮书中所有内容均为无偿提供，我们非常欢迎你把我们的网站分享给你的朋友。
 * <mark style="background-color:red;">任何盈利型组织均禁止转载白皮书中的任何内容（包括但不限于用于公众号，小红书引流，盈利），一经发现将在首页公开账号信息，昭告天下，永不删除。</mark>
+* 任何不以盈利为目的的转载都需清晰标明内容来自白皮书，并且署名内容对应的作者。
 
 更多信息，请访问 [copyright.md](copyright.md "mention")
 
