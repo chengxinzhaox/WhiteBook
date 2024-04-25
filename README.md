@@ -4,7 +4,7 @@
 
 ## 关于我们
 
-白皮书是一款完全开源免费的海外院校DIY申请指南，本站的全部文字在 [CC BY-NC-ND 4.0 DEED（知识共享 署名 标识-非商业性质-禁止改作 4.0国际）](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant)之条款下提供，附加条款亦可能应用。我们提供的所有信息均不以盈利为目的。 更多信息请参阅： [ban-quan-shou-ze.md](ban-quan-shou-ze.md "mention")
+白皮书是一款完全开源免费的海外院校DIY申请指南，本站的全部文字在 [CC BY-NC-ND 4.0 DEED（知识共享 署名 标识-非商业性质-禁止改作 4.0国际）](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant)之条款下提供，附加条款亦可能应用。我们提供的所有信息均不以盈利为目的。 更多信息请参阅： [copyright.md](copyright.md "mention")
 
 {% embed url="https://github.com/ChesterZhao/WhiteBook" %}
 访问我们的源代码
@@ -20,7 +20,7 @@
 由于白皮书是一个非盈利型项目，我们只能为你提供DIY指南，无法为你推荐任何中介服务，如需咨询，请转移平台。
 {% endhint %}
 
-更多信息，请访问 [guan-yu-diy.md](guan-yu-diy.md "mention")
+更多信息，请访问 [about.md](about.md "mention")
 
 ***
 
@@ -40,7 +40,7 @@
 * 白皮书中所有教程均为无偿提供，我们非常欢迎你把我们的网站分享给你的朋友。
 * <mark style="background-color:red;">任何盈利型组织均禁止转载白皮书中的任何内容（包括但不限于用于公众号，小红书引流，盈利），一经发现将在首页公开账号信息，昭告天下，永不删除。</mark>
 
-更多内容请访问:  [ban-quan-shou-ze.md](ban-quan-shou-ze.md "mention")
+更多内容请访问:  [copyright.md](copyright.md "mention")
 
 ***
 
@@ -48,7 +48,7 @@
 
 如果你有任何海外院校的DIY经历，或对某一院校的申请流程非常熟悉并且发现白皮书中没有该院校的教程，欢迎向白皮书投稿。了解详情欢迎咨询我们的邮箱：[apply@whitebook.icu](mailto:apply@whitebook.icu)
 
-更多信息请访问： [cheng-wei-bai-pi-shu-gong-xian-zhe.md](cheng-wei-bai-pi-shu-gong-xian-zhe.md "mention")
+更多信息请访问： [joinus.md](joinus.md "mention")
 
 ## 问题反馈
 
