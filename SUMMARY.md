@@ -18,5 +18,5 @@
   * [格式手册](editor/form.md)
   * [版面指南](editor/layout.md)
   * [通过 GitHub 贡献文档](editor/contribute-through-github.md)
-  * [关于 Markdown](editor/about-markdown.md)
+  * [关于 Markdown](editor/guan-yu-markdown.md)
 * [©️ 版权守则](copyright.md)

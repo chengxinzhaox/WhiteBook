@@ -9,7 +9,7 @@ description: 编辑者：MiMi
 ## 提交文档
 
 * 任何人都可以向我们的 [GitHub 仓库](https://github.com/ChesterZhao/WhiteBook)提交新的内容，如果您拥有 Git 版本控制相关使用经验这并不复杂，但是请在提交代码前仔细阅读 [contribute-through-github.md](editor/contribute-through-github.md "mention")，[form.md](editor/form.md "mention")，[layout.md](editor/layout.md "mention")。确保格式正确，否则您的提交可能会被拒绝。
-* 如果您对 Git 这个词汇毫无头绪，您也可以通过邮件发送您的 Markdown 格式文件给我们，在此之前建议您通过 [apply@whitebook.icu](mailto:apply@whitebook.icu) 与白皮书管理员取得联系。同时您可以通过 [about-markdown.md](editor/about-markdown.md "mention")来了解这个非常易上手的语法。
+* 如果您对 Git 这个词汇毫无头绪，您也可以通过邮件发送您的 Markdown 格式文件给我们，在此之前建议您通过 [apply@whitebook.icu](mailto:apply@whitebook.icu) 与白皮书管理员取得联系。同时您可以通过 [guan-yu-markdown.md](editor/guan-yu-markdown.md "mention")来了解这个非常易上手的语法。
 
 ## 贡献者守则
 
