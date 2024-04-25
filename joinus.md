@@ -8,9 +8,9 @@ description: 编辑者：MiMi
 
 ## 提交文档
 
-* 任何人都可以向白皮书提交新的内容，如果您希望成为白皮书贡献者，请联系邮箱[apply@whitebook.icu](mailto:apply@whitebook.icu) 获取编辑者权限，请在邮件中注明表示您希望为白皮书提供的内容与您的微信号。
+* 任何人都可以向白皮书提交新的内容，如果您希望成为白皮书贡献者，请联系邮箱 [apply@whitebook.icu](mailto:apply@whitebook.icu) 获取编辑者权限，请在邮件中注明表示您希望为白皮书提供的内容与您的微信号。
 * 白皮书的文档使用 Markdown 格式书写，这是一个非常容易上手的标记语法，如果没有这方面的知识，请大可放心，您可以参考：[guan-yu-markdown.md](editor/guan-yu-markdown.md "mention") 获取相关内容。
-* 为了使白皮书中所有文档的编辑风格一致。我们制定了详细的[form.md](editor/form.md "mention")，[layout.md](editor/layout.md "mention")， 以下规则并无声明不能变动，也不暗示这些规则比其他方式都好，但如果所有人的编辑方式都一致，白皮书会更易阅读使用，并让撰写和编辑变得更加方便。希望您可以尽量遵守。如果您的文档过于偏离规范可能会被删除或禁止显示在网页中。
+* 为了使白皮书中所有文档的编辑风格一致。我们制定了详细的 [form.md](editor/form.md "mention")，[layout.md](editor/layout.md "mention")， 以下规则并无声明不能变动，也不暗示这些规则比其他方式都好，但如果所有人的编辑方式都一致，白皮书会更易阅读使用，并让撰写和编辑变得更加方便。希望您可以尽量遵守。如果您的文档过于偏离规范可能会被删除或禁止显示在网页中。
 
 ## 贡献者守则
 
