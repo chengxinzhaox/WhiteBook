@@ -4,7 +4,7 @@
 
 ## 关于我们
 
-小白书是一款完全开源免费的海外院校DIY申请指南，本站的全部文字在 [CC BY-NC-ND 4.0 DEED（知识共享 署名 标识-非商业性质-禁止改作 4.0国际）](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant)之条款下提供，附加条款亦可能应用。我们提供的所有信息均不以盈利为目的。 跟多信息请参阅： [ban-quan-shou-ze.md](ban-quan-shou-ze.md "mention")
+小白书是一款完全开源免费的海外院校DIY申请指南，本站的全部文字在 [CC BY-NC-ND 4.0 DEED（知识共享 署名 标识-非商业性质-禁止改作 4.0国际）](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant)之条款下提供，附加条款亦可能应用。我们提供的所有信息均不以盈利为目的。 更多信息请参阅： [ban-quan-shou-ze.md](ban-quan-shou-ze.md "mention")
 
 {% embed url="https://github.com/ChesterZhao/WhiteBook" %}
 访问我们的源代码
