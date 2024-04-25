@@ -1,6 +1,6 @@
 # Table of contents
 
-* [关于小白书](README.md)
+* [关于白皮书](README.md)
 * [关于DIY](guan-yu-diy.md)
 * [院校百科](schoolwiki/README.md)
   * [皇家艺术学院 （RCA）](schoolwiki/rca/README.md)
@@ -13,8 +13,8 @@
 * [海外租房](hai-wai-zu-fang/README.md)
   * [英国](hai-wai-zu-fang/ying-guo/README.md)
     * [伦敦](hai-wai-zu-fang/ying-guo/lun-dun.md)
-* [成为小白书贡献者](cheng-wei-xiao-bai-shu-gong-xian-zhe.md)
+* [成为白皮书贡献者](cheng-wei-bai-pi-shu-gong-xian-zhe.md)
 * [编辑者手册](bian-ji-zhe-shou-ce/README.md)
   * [格式手册](bian-ji-zhe-shou-ce/ge-shi-shou-ce.md)
   * [版面指南](bian-ji-zhe-shou-ce/ban-mian-zhi-nan.md)
-* [版权守则](ban-quan-shou-ze.md)
+* [©️ 版权守则](ban-quan-shou-ze.md)
