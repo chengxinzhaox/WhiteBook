@@ -1,5 +1,5 @@
 ---
-description: 本页贡献名单（排名不分先后）：张三，李四
+description: 本页贡献名单：MiMi
 ---
 
 # 申请流程

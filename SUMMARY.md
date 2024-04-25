@@ -1,6 +1,7 @@
 # Table of contents
 
 * [关于小白书](README.md)
+* [关于DIY](guan-yu-diy.md)
 * [院校百科](schoolwiki/README.md)
   * [皇家艺术学院 （RCA）](schoolwiki/rca/README.md)
     * [如何在 RCA 官网冲浪 🏄](schoolwiki/rca/ru-he-zai-rca-guan-wang-chong-lang.md)
@@ -9,4 +10,8 @@
       * [留位费缴纳](schoolwiki/rca/offer-hoder/liu-wei-fei-jiao-na.md)
       * [文件上传](schoolwiki/rca/offer-hoder/wen-jian-shang-chuan.md)
       * [入学](schoolwiki/rca/offer-hoder/ru-xue.md)
+* [海外租房](hai-wai-zu-fang/README.md)
+  * [英国](hai-wai-zu-fang/ying-guo/README.md)
+    * [伦敦](hai-wai-zu-fang/ying-guo/lun-dun.md)
 * [更新日志](geng-xin-ri-zhi.md)
+* [成为小白书贡献者](cheng-wei-xiao-bai-shu-gong-xian-zhe.md)

@@ -1,5 +1,7 @@
 ---
-description: RCA本页信息贡献：MiMi
+description: 本页贡献名单：MiMi
+cover: ../../.gitbook/assets/SchoolWatch11_4.jpg
+coverY: 0
 ---
 
 # 皇家艺术学院 （RCA）
