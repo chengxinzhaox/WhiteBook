@@ -38,7 +38,7 @@
 
 * 白皮书中的所有教程版权均为其创作者所有。
 * 白皮书中所有教程均为无偿提供，我们非常欢迎你把我们的网站分享给你的朋友。
-* <mark style="background-color:red;">任何盈利型组织均禁止转载白皮书中的任何内容（包括但不限于用于公众号，小红书引流，盈利），一经发现将在</mark><mark style="background-color:red;">首页公开账号信息，昭告天下，永不删除。</mark>
+* <mark style="background-color:red;">任何盈利型组织均禁止转载白皮书中的任何内容（包括但不限于用于公众号，小红书引流，盈利），一经发现将在首页公开账号信息，昭告天下，永不删除。</mark>
 
 更多内容请访问:  [ban-quan-shou-ze.md](ban-quan-shou-ze.md "mention")
 
@@ -49,3 +49,12 @@
 如果你有任何海外院校的DIY经历，或对某一院校的申请流程非常熟悉并且发现白皮书中没有该院校的教程，欢迎向白皮书投稿。了解详情欢迎咨询我们的邮箱：apply@whitebook.icu
 
 更多信息请访问： [cheng-wei-bai-pi-shu-gong-xian-zhe.md](cheng-wei-bai-pi-shu-gong-xian-zhe.md "mention")
+
+## 问题反馈
+
+如果您发现白皮书有任何事实信息问题，如院校网址链接错误，成绩要求错误等欢迎反馈问题，一经接受我们会在页面的贡献者中加上您的名字（如果您可以提供）。
+
+反馈途径如下
+
+1. 通过白皮书 GitHub 仓库发布 [Issue](https://github.com/ChesterZhao/WhiteBook/issues)
+2. 或将问题提交到我们的邮箱：issue@whitebook.icu
