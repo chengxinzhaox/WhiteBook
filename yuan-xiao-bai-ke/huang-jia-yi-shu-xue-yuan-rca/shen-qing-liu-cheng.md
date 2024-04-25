@@ -10,7 +10,9 @@ description: 本页贡献名单（排名不分先后）：张三，李四
 
 [RCA 官方申请指南（英文）](https://sm-portal-rca.thesiscloud.com/?page\_id=1534)
 
-## 小白书中文教程
+
+
+## 中文教程
 
 ### 登录网站
 

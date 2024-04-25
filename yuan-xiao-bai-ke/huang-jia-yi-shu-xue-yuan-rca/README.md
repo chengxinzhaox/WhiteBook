@@ -1,8 +1,12 @@
-# 皇家艺术学院
+---
+description: RCA本页信息贡献：MiMi
+---
+
+# 皇家艺术学院 （RCA）
 
 ## 基本信息
 
-<table data-header-hidden><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>地理位置</td><td>英国 伦敦 （肯辛顿， 巴特西， 白城）</td></tr><tr><td>官方网站</td><td><a href="https://www.rca.ac.uk/">https://www.rca.ac.uk/</a></td></tr><tr><td>申请方式</td><td>官方Portal + Pebblepad</td></tr><tr><td>申请费</td><td><mark style="color:green;">免费</mark></td></tr><tr><td>联系方式</td><td>申请相关/Offer Hoder相关 <a href="mailto:admissions@rca.ac.uk">admissions@rca.ac.uk</a></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>地理位置</td><td>英国 伦敦 （肯辛顿， 巴特西， 白城）</td></tr><tr><td>官方网站</td><td><a href="https://www.rca.ac.uk/">https://www.rca.ac.uk/</a></td></tr><tr><td>申请方式</td><td>官方Portal + Pebblepad</td></tr><tr><td>申请门户网站</td><td><a href="https://sm-portal-rca.thesiscloud.com/">https://sm-portal-rca.thesiscloud.com/</a></td></tr><tr><td>申请费</td><td><mark style="color:green;">免费</mark></td></tr><tr><td>联系方式</td><td>申请相关/Offer Hoder相关 <a href="mailto:admissions@rca.ac.uk">admissions@rca.ac.uk</a></td></tr></tbody></table>
 
 ## 入学要求
 
@@ -36,3 +40,7 @@
 | MA, MArch, MDes, MEd, MFA, MRes 八周语言班 | 6（5.5）                 | 6（5.5）             |
 | MPhil 项目                              | 6.5 (写作6.5，其余5.5)      | 6.5 (写作6.5，其余5.5)  |
 | PhD 项目                                | 7 (写作7，其余5.5)          | 7 (写作7，其余5.5)      |
+
+### 作品集要求
+
+RCA 除少部分项目可提交论文申请，大部分项目需提交作品集，每个项目对其作品集都特定的要求，例如项目数量，项目中需展现的技能，具体需要查看每个项目的具体要求，参考 - [ru-he-zai-rca-guan-wang-chong-lang.md](ru-he-zai-rca-guan-wang-chong-lang.md "mention")
