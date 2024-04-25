@@ -2,7 +2,7 @@
 
 ## 关于我们
 
-小白书是一款完全开源的海外院校申请百科全书，由 Markdown  格式编写，由 GitBook进行网页端渲染，本项目的所有源码均在  GitHub 中公开。
+小白书是一款完全开源的海外院校申请百科全书，由 Markdown  格式编写，由 GitBook 进行网页端渲染，本项目的所有源码均在  GitHub 中公开。
 
 {% embed url="https://github.com/ChesterZhao/WhiteBook" %}
 访问我们的源代码
