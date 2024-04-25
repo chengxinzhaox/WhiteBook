@@ -24,7 +24,7 @@ coverY: 0
 >
 > 欢迎来自相关背景的候选人申请，如工程、建筑、传播、运动科学、医疗/健康、国际发展/非政府组织 NGO 领域、经济/商业、材料科学以及技术开发和用户体验。
 
-但总体来说 RCA 并没有对你来自某一领域做出太严格的要求。访问 [ru-he-zai-rca-guan-wang-chong-lang.md](ru-he-zai-rca-guan-wang-chong-lang.md "mention") 了解如何查看某一项目对学位的具体要求。
+但总体来说 RCA 并没有对你来自某一领域做出太严格的要求。访问 [web-tutorial.md](web-tutorial.md "mention") 了解如何查看某一项目对学位的具体要求。
 
 ### 语言要求
 
@@ -54,4 +54,4 @@ coverY: 0
 
 ### 作品集要求
 
-RCA 除少部分项目可提交论文申请，大部分项目需提交作品集，每个项目对其作品集都特定的要求，例如项目数量，项目中需展现的技能，具体需要查看每个项目的具体要求，参考 - [ru-he-zai-rca-guan-wang-chong-lang.md](ru-he-zai-rca-guan-wang-chong-lang.md "mention")
+RCA 除少部分项目可提交论文申请，大部分项目需提交作品集，每个项目对其作品集都特定的要求，例如项目数量，项目中需展现的技能，具体需要查看每个项目的具体要求，参考 - [web-tutorial.md](web-tutorial.md "mention")
