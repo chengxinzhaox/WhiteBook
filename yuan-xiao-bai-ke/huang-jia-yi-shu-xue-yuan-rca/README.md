@@ -12,8 +12,17 @@ description: RCA本页信息贡献：MiMi
 
 ### 成绩要求
 
-* 除 [MA/MSC Innovation Design Engineering](https://www.rca.ac.uk/study/programme-finder/innovation-design-engineering-ma-msc/#requirements) 要求毕业成绩需为英制2:1学位，其余专业未给出最低分数要求。
-* 所有专业都未注明要求某特定领域。
+除 [MA/MSC Innovation Design Engineering](https://www.rca.ac.uk/study/programme-finder/innovation-design-engineering-ma-msc/#requirements) 要求毕业成绩需为英制2:1学位，其余专业未给出最低分数要求。
+
+### 学位要求
+
+每个项目的详情页面都介绍了该项目希望你来自某一领域，例如 MA Design Products：
+
+> 对于MA Design Products，您应该拥有一个设计领域或相关背景的优秀本科学位或同等学历，并精通书面和口头英语。具有数年专业经验（无论是在第一学位之前还是之后）都是一种优势，您必须能够展示批判性和创新性思维、对设计的好奇心以及在由学生引导的项目中取得成功的能力。
+>
+> 欢迎来自相关背景的候选人申请，如工程、建筑、传播、运动科学、医疗/健康、国际发展/非政府组织NGO领域、经济/商业、材料科学以及技术开发和用户体验。
+
+但总体来说 RCA 并没有对你来自某一领域做出太严格的要求。访问 [ru-he-zai-rca-guan-wang-chong-lang.md](ru-he-zai-rca-guan-wang-chong-lang.md "mention") 了解如何查看某一项目对学位的具体要求。
 
 ### 语言要求
 

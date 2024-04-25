@@ -54,5 +54,5 @@ RCA 官网布局非常合理，逻辑清晰，完全不需要畏难，在申请�
 <figure><img src="../../.gitbook/assets/2024-04-25 at 08.07.28.jpg" alt=""><figcaption><p>包含作品集要求，Video Task 要求，语言要求的 What's needed from you 部分</p></figcaption></figure>
 
 {% hint style="success" %}
-恭喜你，你现在已经获取了 RCA 对一个项目的所有要求，完成他们，接下来进入 [shen-qing-liu-cheng.md](shen-qing-liu-cheng.md "mention")
+恭喜你，你现在应该已经了解了 RCA 对一个项目的所有要求，接下来进入 [shen-qing-liu-cheng.md](shen-qing-liu-cheng.md "mention")
 {% endhint %}
