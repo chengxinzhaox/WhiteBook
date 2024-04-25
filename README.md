@@ -5,7 +5,7 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
@@ -14,10 +14,10 @@ layout:
 
 # 小白书
 
-{% content-ref url="yuan-xiao-bai-ke/" %}
-[yuan-xiao-bai-ke](yuan-xiao-bai-ke/)
+{% content-ref url="schoolwiki/" %}
+[schoolwiki](schoolwiki/)
 {% endcontent-ref %}
 
-{% content-ref url="README (1).md" %}
-[README (1).md](<README (1).md>)
+{% content-ref url="about.md" %}
+[about.md](about.md)
 {% endcontent-ref %}
