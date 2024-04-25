@@ -1,4 +1,5 @@
 ---
+description: 本页贡献名单：财宝
 cover: >-
   https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxsb25kb258ZW58MHx8fHwxNzE0MDQ1MTIwfDA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -57,36 +58,3 @@ coverY: 0
 
 假设一周五天课，一周公交通勤成本需要至少17.5镑
 {% endhint %}
-
-## 住什么样子的房
-
-### Studio
-
-类似于国内的小开间，你拥有完全独立的卧室、厨房、卫生间。
-
-（插studio的户型图）
-
-|    |                                                             |
-| -- | ----------------------------------------------------------- |
-| 优点 | 不用担心遇到奇葩室友，可以勇敢做自己，完全掌控空间支配权。                               |
-| 缺点 | 厨房和卧室一般没有隔断，香香软软小被子容易被油烟腌入味儿。如果 Studio 的质量不好，厕所也会加入被子的腌制工作。 |
-
-### En-suit
-
-只有独立卫浴的
-
-## 在哪找房
-
-如果确定要租社会房源，那么就尽早下签证，线上平台和英国中介都会要资格认证，才能签订合同。
-
-{% hint style="info" %}
-尽量少用中国中介，或者中国人中介
-
-他们的少数优点之一是：比较会变通，没签证他们也能让你租到
-{% endhint %}
-
-### 线上找房平台
-
-常用几个网站有：[Zoopla](https://www.zoopla.co.uk/to-rent/), [Rightmove](https://www.rightmove.co.uk/), [Spareroom](https://www.spareroom.co.uk/), [Openrent](https://www.openrent.co.uk/)
-
-使用都大同小异，只重点说一些筛选操作和Fliter的设置。
