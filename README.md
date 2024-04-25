@@ -1,23 +1,27 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
----
+# 关于小白书
 
-# 小白书
+## 关于我们
 
-{% content-ref url="schoolwiki/" %}
-[schoolwiki](schoolwiki/)
-{% endcontent-ref %}
+小白书是一款完全开源的海外院校申请百科全书，由 Markdown  格式编写，由 GitBook进行网页端渲染，本项目的所有源码均在  GitHub 中公开。
 
-{% content-ref url="about.md" %}
-[about.md](about.md)
-{% endcontent-ref %}
+{% embed url="https://github.com/ChesterZhao/WhiteBook" %}
+访问我们的源代码
+{% endembed %}
+
+## 关于内容
+
+小白书现在由一个4人的审核团队管理，所有新增的内容都由该团队进行严格的审核，我们希望经可能保证信息的真实与可靠，我们将始终遵循：
+
+* 只做内容的搬运工，所有信息必须要在院校官网有对应部分，不得私自添加误导/诱导信息。
+* 不接受任何第三方机构捐助，不在本网站出现任何广告。我们的运营成本非常低，并且懒得赚钱。
+* 严格审核内容作者信息，对于违规的信息提交者永久封禁。
+
+## 加入我们
+
+如果你有任何海外院校的DIY经历，或对某一院校的申请流程非常熟悉并且发现小白书中没有该院校的教程，欢迎向小白书投稿。
+
+你只需了解如何编辑 Markdown 文档就可以向我们投稿。
+
+邮箱：apply@whitebook.icu
+
+&#x20;
