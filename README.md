@@ -4,12 +4,10 @@
 
 ## 关于我们
 
-白皮书是一款完全开源免费的海外院校 DIY 申请指南，本站的所有信息均在 [CC BY-NC-ND 4.0 DEED（知识共享 署名 标识-非商业性质-禁止改作 4.0 国际版）](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant)条款下提供。
-
-白皮书没有接受如何机构/个人的捐款或任何形式的资金支持。更多信息请参考： [copyright.md](copyright.md "mention")
+白皮书是一款完全开源免费的海外院校 DIY 申请指南，本站的所有信息均在 [CC BY-NC-ND 4.0 DEED（知识共享 署名 标识-非商业性质-禁止改作 4.0 国际版）](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant)条款下提供。更多信息请访问 [copyright.md](copyright.md "mention")
 
 {% embed url="https://github.com/ChesterZhao/WhiteBook" %}
-访问代码
+访问源代码
 {% endembed %}
 
 ***
