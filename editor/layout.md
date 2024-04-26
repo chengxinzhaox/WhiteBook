@@ -165,14 +165,12 @@ _斜体文本_
 
 ```markdown
 {% raw %}
-{% hint style="info" %} 由于白皮书是一个非盈利型项目，我们只能为你提供DIY指南，无法为你推荐任何中介服务，如需咨询，请转移平台。 {% endhint %}
+{% hint style="info" %} 信息块元素 {% endhint %}
 {% endraw %}
 ```
 
 {% hint style="info" %}
-```
-由于白皮书是一个非盈利型项目，我们只能为你提供DIY指南，无法为你推荐任何中介服务，如需咨询，请转移平台。
-```
+信息块元素
 {% endhint %}
 
 ***
@@ -181,12 +179,12 @@ _斜体文本_
 
 ```
 {% raw %}
-{% hint style="warn" %} 第三方盈利机构禁止转载任何内容 {% endhint %}
+{% hint style="warn" %} 警告块元素 {% endhint %}
 {% endraw %}
 ```
 
 {% hint style="danger" %}
-第三方盈利机构禁止转载任何内容。
+警告块元素
 {% endhint %}
 
 ***
@@ -195,12 +193,10 @@ _斜体文本_
 
 ```
 {% raw %}
-{% hint style="success" %} 恭喜你，你现在应该已经了解了 RCA 对一个项目的所有要求，接下来进入 shen-qing-liu-cheng.md {% endhint %}
+{% hint style="success" %} 成功块元素 {% endhint %}
 {% endraw %}
 ```
 
 {% hint style="success" %}
-```
-恭喜你，已经掌握了 hint 的写法了。
-```
+成功块元素
 {% endhint %}
