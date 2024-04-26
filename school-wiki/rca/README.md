@@ -24,6 +24,7 @@ coverY: 0
 * Video Task（5分钟）
 * 一段工作经历陈述（可选，根据以往经验不强制要求）
 * 推荐信（只能交一封）
+* 语言成绩 （申请时不强制提交， 详情： [#yu-yan-yao-qiu](./#yu-yan-yao-qiu "mention")）
 
 {% hint style="info" %}
 没错，如果你没有毕业 RCA 在申请阶段不会知道你的 GPA，成绩不会被纳入参考。
