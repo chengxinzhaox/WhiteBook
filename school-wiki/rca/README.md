@@ -8,7 +8,28 @@ coverY: 0
 
 ## 基本信息
 
-<table data-header-hidden><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>地理位置</td><td>英国 伦敦 （肯辛顿， 巴特西， 白城）</td></tr><tr><td>官方网站</td><td><a href="https://www.rca.ac.uk/">https://www.rca.ac.uk/</a></td></tr><tr><td>申请方式</td><td>官方Portal + Pebblepad</td></tr><tr><td>申请门户网站</td><td><a href="https://sm-portal-rca.thesiscloud.com/">https://sm-portal-rca.thesiscloud.com/</a></td></tr><tr><td>申请费</td><td><mark style="color:green;">免费</mark></td></tr><tr><td>联系方式</td><td>申请相关/Offer Hoder 相关 <a href="mailto:admissions@rca.ac.uk">admissions@rca.ac.uk</a></td></tr></tbody></table>
+| 地理位置   | 英国 伦敦 （肯辛顿， 巴特西， 白城）                                                             |
+| ------ | -------------------------------------------------------------------------------- |
+| 官方网站   | [https://www.rca.ac.uk/](https://www.rca.ac.uk/)                                 |
+| 申请方式   | 官方 Portal + Pebblepad                                                            |
+| 申请门户网站 | [https://sm-portal-rca.thesiscloud.com/](https://sm-portal-rca.thesiscloud.com/) |
+| 申请费    | <mark style="color:green;">免费</mark>                                             |
+| 联系方式   | 申请相关/Offer Hoder 相关 [admissions@rca.ac.uk](mailto:admissions@rca.ac.uk)          |
+
+## 申请材料
+
+* 作品集（极少数专业不需要）
+* GPA（如果没有毕业申请阶段不需要提交 GPA 或成绩单）
+* 个人陈述（300字）
+* Video Task（5分钟）
+* 一段工作经历陈述（可选，根据以往经验不强制要求）
+* 推荐信（只能交一封）
+
+{% hint style="info" %}
+没错，如果你没有毕业 RCA 在申请阶段不会知道你的 GPA，成绩不会被纳入参考。
+
+推荐信的要求非常低，只需要是一封学术或工作推荐信，根据以往经验推荐信占的比重微乎其微，接近为0，甚至可以录取后补交。
+{% endhint %}
 
 ## 入学要求
 
