@@ -7,6 +7,7 @@
     * [如何在 RCA 官网冲浪 🏄](school-wiki/rca/web-tutorial.md)
     * [申请流程](school-wiki/rca/apply-process.md)
     * [Offer Hoder](school-wiki/rca/offer-hoder/README.md)
+      * [接受 Offer](school-wiki/rca/offer-hoder/accept-offer.md)
       * [留位费缴纳](school-wiki/rca/offer-hoder/pay.md)
       * [文件上传](school-wiki/rca/offer-hoder/upload-file.md)
       * [入学](school-wiki/rca/offer-hoder/enrollment.md)
