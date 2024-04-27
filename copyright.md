@@ -2,11 +2,11 @@
 description: 本页面信息来自于：Creative Commons
 ---
 
-# 版权守则
+# ©️ 版权守则
 
-本站的全部文字在 [CC BY-NC-ND 4.0 DEED（知识共享 署名 标识-非商业性质-禁止改作 4.0国际）](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant)之条款下提供。&#x20;
+本站的所有信息均在 [CC BY-NC-ND 4.0 DEED（知识共享 署名—非商业性使用—禁止演绎 4.0 协议国际版）](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)条款下提供。
 
-<figure><img src=".gitbook/assets/2024-04-25 at 11.35.01.jpg" alt=""><figcaption><p> <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant">CC BY-NC-ND 4.0 DEED</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/2024-04-27 at 07.58.37.jpg" alt=""><figcaption><p><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant">CC BY-NC-ND 4.0 DEED</a></p></figcaption></figure>
 
 ### 署名—非商业性使用—禁止演绎 4.0 协议国际版 <a href="#legal-code-title" id="legal-code-title"></a>
 
