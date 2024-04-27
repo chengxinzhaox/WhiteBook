@@ -32,7 +32,7 @@
 * 不接受任何第三方机构捐助，不在本网站出现任何广告。
 * 严格审核内容作者信息，对于违规的信息提交者永久封禁。
 
-更多信息，请访问 [#gong-xian-zhe-shou-ze](joinus.md#gong-xian-zhe-shou-ze "mention")
+更多信息，请访问 [#gong-xian-zhe-shou-ze](life.md#gong-xian-zhe-shou-ze "mention")
 
 ***
 
@@ -51,7 +51,7 @@
 
 如果你有任何海外院校的 DIY 经历，或对某一院校的申请流程非常熟悉并且发现白皮书中没有该院校的教程，欢迎向白皮书投稿。了解详情欢迎咨询我们的邮箱：[apply@whitebook.icu](mailto:apply@whitebook.icu)
 
-更多信息，请访问 [joinus.md](joinus.md "mention")
+更多信息，请访问 [life.md](life.md "mention")
 
 ## 问题反馈
 
