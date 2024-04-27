@@ -1,6 +1,2 @@
----
-description: Hoder
----
-
 # Offer Hoder
 
