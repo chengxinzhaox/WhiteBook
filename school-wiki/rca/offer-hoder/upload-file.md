@@ -12,11 +12,11 @@
 
 ### 护照副本
 
-Copy of Passport
+Copy of Passport 实测拍照就行，上传有照片的那一页。
 
 ### 签证/居留权副本
 
-Copy of Visa/Right of Residence
+Copy of Visa/Right of Residence，不必立刻上传，等 RCA 下 CAS 后拿到英国签证再上传。
 
 ### 学位证副本
 
