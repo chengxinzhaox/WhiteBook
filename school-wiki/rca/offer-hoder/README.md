@@ -1,6 +1,6 @@
 # Offer Hoder
 
-本章节所有内容来源于 RCA 官网 本网站只做翻译与解释工作
+本章节所有内容来源于 RCA 官网，本网站只做翻译与解释工作，原文请参考：
 
 * [Information for offer holders（英文）](https://www.rca.ac.uk/study/application-process/information-for-offer-holders/)
 * [Offer Holder 帮助手册 - 本地生 PDF （英文）](https://rca-production.herokuapp.com/documents2/844/RCA\_Offer\_Holder\_Pack\_24\_25\_-\_April.pdf)
