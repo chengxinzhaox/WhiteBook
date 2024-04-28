@@ -48,7 +48,7 @@ RCA 未与任何第三方机构合作，官网缴纳留位费包括后续的学�
 
 这里以使用Visa卡付款举例。但是，请不要担心，所有卡需要填写的信息都是一样的，按照下面的步骤操作不会有任何问题。
 
-**如果你不了解截图中提到的关于信用卡中的信息，可以查看** [credit-card.md](../../../sheng-huo-bai-ke-quan-shu/credit-card.md "mention") **了解信用卡的构造。**
+**如果你不了解截图中提到的关于信用卡中的信息，可以查看** [credit-card.md](../../../life-wiki/credit-card.md "mention") **了解信用卡的构造。**
 
 <figure><img src="../../../.gitbook/assets/2024-04-27 at 16.58.56.jpg" alt=""><figcaption></figcaption></figure>
 
