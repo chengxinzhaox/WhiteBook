@@ -8,6 +8,8 @@ RCA 未与任何第三方机构合作，官网缴纳留位费包括后续的学�
 
 ## RCA 官网部分
 
+网址：[https://sm-portal-rca.thesiscloud.com/](https://sm-portal-rca.thesiscloud.com/)
+
 1. 点击屏幕右上角的 `MY RCA` 按钮，开始支付押金流程。
 
 <figure><img src="../../../.gitbook/assets/2024-04-27 at 16.42.04 (1).jpg" alt=""><figcaption></figcaption></figure>
