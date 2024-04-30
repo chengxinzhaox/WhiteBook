@@ -75,9 +75,9 @@ _斜体文本_
 
 ### 彩色文本
 
-为了保证页面色彩统一，彩色背景文本仅能使用 <mark style="background-color:red;">red</mark> 与 <mark style="background-color:blue;">blue</mark>，彩色字体文本仅能使用 <mark style="color:red;">red</mark>, <mark style="color:green;">green</mark> 与 <mark style="color:blue;">blue</mark>。
+为了保证页面色彩统一，彩色背景文本仅能使用 red 与 blue，彩色字体文本仅能使用 red, green 与 blue。
 
-{% code title="彩色背景文本" overflow="wrap" %}
+{% code title="彩色背景文本" %}
 ```markdown
 <mark style="background-color:red;">任何盈利型组织均禁止转载白皮书中的任何内容（包括但不限于用于公众号，小红书引流，盈利）</mark>
 
@@ -89,7 +89,7 @@ _斜体文本_
 
 <mark style="background-color:blue;">任何盈利型组织均禁止转载白皮书中的任何内容（包括但不限于用于公众号，小红书引流，盈利）</mark>
 
-{% code title="彩色字体文本" overflow="wrap" %}
+{% code title="彩色字体文本" %}
 ```markdown
 <mark style="color:red;">任何盈利型组织均禁止转载白皮书中的任何内容（包括但不限于用于公众号，小红书引流，盈利）</mark>
 
