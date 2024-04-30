@@ -1,49 +1,34 @@
-name: Build my gitbook and deploy to gh-pages
+name: GitBook Deploy
 
 on:
-  workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  main-to-gh-pages:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout main
+      - name: Checkout
         uses: actions/checkout@v2
-        with:
-          ref: main
 
-      - name: install nodejs
-        uses: actions/setup-node@v1
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: '10.23.0'
 
-      - name: configue gitbook
-        run: |
-          npm install -g gitbook-cli          
-          gitbook install
-          npm install -g gitbook-summary
-      - name: generate _book folder
-        run: |
-          book sm
-          gitbook build
-          cp SUMMARY.md _book
-      - name: push _book to branch gh-pages
-        env:
-          TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
-          REF: github.com/${{github.repository}}
-          MYEMAIL: zchenxing2002@gmail.com
-          MYNAME: ${{github.repository_owner}}
-        run: |
-          cd _book
-          git config --global user.email "${MYEMAIL}"
-          git config --global user.name "${MYNAME}"
-          git init
-          git remote add origin https://${REF}
-          git add . 
-          git commit -m "Updated By Github Actions With Build ${{github.run_number}} of ${{github.workflow}} For Github Pages"
-          git branch -M main
-          git push --force --quiet "https://${TOKEN}@${REF}" main:gh-pages
+      - name: Install GitBook CLI
+        run: npm install -g gitbook-cli
+
+      - name: Install GitBook Plugins
+        run: gitbook install
+
+      - name: Build
+        run: gitbook build
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v4
+        with:
+          branch: gh-pages
+          folder: _book
