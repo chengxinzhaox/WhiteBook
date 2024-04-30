@@ -1,3 +1,7 @@
+---
+description: '本页贡献名单: MiMi'
+---
+
 # 留位费缴纳
 
 {% hint style="danger" %}
@@ -6,7 +10,14 @@ RCA 未与任何第三方机构合作，官网缴纳留位费包括后续的学�
 **经过无数同学的尝试，信用卡直接缴费永远是最划算的。**
 {% endhint %}
 
-## RCA 官网部分
+RCA 提供了两种留位费缴纳方式
+
+1. 通过 Portal 登录账号进行缴纳（首推）。 [#zhang-hao-deng-lu-jiao-na-liu-wei-fei](pay.md#zhang-hao-deng-lu-jiao-na-liu-wei-fei "mention")
+2. 如果账号登录遇到了问题（如忘记用户名，密码），可以通过 [备用网站](https://forms.rca.ac.uk/forms/applicant-deposit-payment) 直接缴纳留位费。 [#bei-yong-wang-zhan-jiao-na-liu-wei-fei](pay.md#bei-yong-wang-zhan-jiao-na-liu-wei-fei "mention")
+
+***
+
+## 账号登录缴纳留位费&#x20;
 
 网址：[https://sm-portal-rca.thesiscloud.com/](https://sm-portal-rca.thesiscloud.com/)
 
@@ -27,6 +38,30 @@ RCA 未与任何第三方机构合作，官网缴纳留位费包括后续的学�
 <figure><img src="../../../.gitbook/assets/2024-04-27 at 16.47.21.jpg" alt=""><figcaption></figcaption></figure>
 
 5. 之后你会进入 WorldPay 网站进行付款。
+
+***
+
+## 备用网站缴纳留位费
+
+如果你是通过账号登录的方式缴纳的留位费，请忽略这一步。
+
+进入备用网站 [https://forms.rca.ac.uk/forms/applicant-deposit-payment](https://forms.rca.ac.uk/forms/applicant-deposit-payment)
+
+首先选择项目，大部分硕士项目为 MA，请根据 Offer上的项目进行选泽
+
+<figure><img src="../../../.gitbook/assets/2024-04-30 at 13.37.06.jpg" alt=""><figcaption><p>项目选择</p></figcaption></figure>
+
+继续填写
+
+<figure><img src="../../../.gitbook/assets/2024-04-30 at 13.39.22 (2).jpg" alt=""><figcaption><p>项目信息</p></figcaption></figure>
+
+填写付款信息
+
+<figure><img src="../../../.gitbook/assets/2024-04-30 at 13.41.39 (1).jpg" alt=""><figcaption><p>付款信息</p></figcaption></figure>
+
+点击`Pay`就会跳转到WorldPay付款网站。
+
+***
 
 ## WorldPay 网站部分
 
@@ -53,6 +88,8 @@ RCA 未与任何第三方机构合作，官网缴纳留位费包括后续的学�
 **如果你不了解截图中提到的关于信用卡中的信息，可以查看** [credit-card.md](../../../life-wiki/credit-card.md "mention") **了解信用卡的构造。**
 
 <figure><img src="../../../.gitbook/assets/2024-04-27 at 16.58.56.jpg" alt=""><figcaption></figcaption></figure>
+
+***
 
 ## 付款成功
 
