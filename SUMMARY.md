@@ -11,6 +11,7 @@
       * [留位费缴纳](school-wiki/rca/offer-hoder/pay.md)
       * [文件上传](school-wiki/rca/offer-hoder/upload-file.md)
       * [入学](school-wiki/rca/offer-hoder/enrollment.md)
+  * [丹麦皇家艺术学院（KADK）](school-wiki/kadk.md)
 * [海外租房](tenement/README.md)
   * [英国](tenement/uk/README.md)
     * [英国房型](tenement/uk/house-type.md)
