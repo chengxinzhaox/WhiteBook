@@ -4,7 +4,7 @@
 
 白皮书是一款完全开源免费的海外院校 DIY 申请指南，本站的所有信息均在 [CC BY-NC-ND 4.0 DEED（知识共享 署名—非商业性使用—禁止演绎 4.0 协议国际版）](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)条款下提供。更多信息请访问 [copyright.md](copyright.md "mention")
 
-为了方便海内外用户访问，我们提供了白皮书国内镜像服务器，如果您在国内访问体验不佳，请访问：[cn.whitebook.icu](https://cn.whitebook.icu)
+为了方便海内外用户访问，我们提供了白皮书国内镜像服务器，如果您在国内访问体验不佳，请访问：[cn.whitebook.icu](https://cn.whitebook.icu)（可能与主服务器有一小时更新延迟）
 
 ***
 
