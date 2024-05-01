@@ -25,4 +25,4 @@
   * [格式手册](editor/form.md)
   * [版面指南](editor/layout.md)
   * [关于 Markdown](editor/guan-yu-markdown.md)
-* [©️ 版权守则](copyright.md)
+* [版权守则](copyright.md)
