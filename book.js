@@ -4,10 +4,10 @@ module.exports = {
     description: 'WhiteBook',
     isbn: '123-456-789',
     author: 'WhiteBook Team',
-    lang: 'zh-cn',
+    language : "zh-hans",
 
     //插件列表
-    plugins: ['-lunr', '-search', 'search-plus', '-sharing', 'prism', 'url-embed', 'hints', 'expandable-chapters-small', 'favicon'],
+    plugins: ['-lunr', '-search', 'search-plus', '-sharing', 'url-embed', 'hints', 'expandable-chapters-small', 'favicon', 'code', 'alerts'],
 
     //插件全局设置
     pluginsConfig: {
