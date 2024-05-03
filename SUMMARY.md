@@ -13,6 +13,8 @@
       * [入学](school-wiki/rca/offer-hoder/enrollment.md)
   * [丹麦皇家艺术学院（KADK）](school-wiki/kadk/README.md)
     * [申请流程](school-wiki/kadk/apply-process.md)
+  * [米兰理工大学（Polimi）](school-wiki/polimi.md)
+  * [佐治亚理工大学（Gatech）](school-wiki/gatech.md)
 * [海外租房](tenement/README.md)
   * [英国](tenement/uk/README.md)
     * [英国房型](tenement/uk/house-type.md)
